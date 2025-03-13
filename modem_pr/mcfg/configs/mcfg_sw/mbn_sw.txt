@@ -1,6 +1,7 @@
 mcfg_sw/generic/AF/Airtel/Commercial/KE/mcfg_sw.mbn
 mcfg_sw/generic/AF/CellC/Commercial/SAfrica/mcfg_sw.mbn
 mcfg_sw/generic/AF/Etisalat/Commercial/EG/mcfg_sw.mbn
+mcfg_sw/generic/AF/MTN/Commercial/Nigeria/mcfg_sw.mbn
 mcfg_sw/generic/AF/MTN/Commercial/ZA/mcfg_sw.mbn
 mcfg_sw/generic/AF/MoroccoTel/Commercial/MA/mcfg_sw.mbn
 mcfg_sw/generic/AF/Orange/Commercial/EG/mcfg_sw.mbn
@@ -10,6 +11,7 @@ mcfg_sw/generic/AF/Vodacom/Commercial/ZA/mcfg_sw.mbn
 mcfg_sw/generic/AF/Vodafone/Commercial/EG/mcfg_sw.mbn
 mcfg_sw/generic/AF/WE/Commercial/EG/mcfg_sw.mbn
 mcfg_sw/generic/APAC/Airtel/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/APAC/Beeline/Commercial/KZ/mcfg_sw.mbn
 mcfg_sw/generic/APAC/DCM/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/APAC/Grameenphone/Commercial/Bangladesh/mcfg_sw.mbn
 mcfg_sw/generic/APAC/Idea/Commercial/mcfg_sw.mbn
@@ -49,6 +51,7 @@ mcfg_sw/generic/EU/BTBD/Commercial/France/mcfg_sw.mbn
 mcfg_sw/generic/EU/Base/Commercial/BE/mcfg_sw.mbn
 mcfg_sw/generic/EU/Bob/Commercial/Austria/mcfg_sw.mbn
 mcfg_sw/generic/EU/Bouygues/Commercial/France/mcfg_sw.mbn
+mcfg_sw/generic/EU/Coop/Commercial/Italy/mcfg_sw.mbn
 mcfg_sw/generic/EU/Coriolis/Commercial/France/mcfg_sw.mbn
 mcfg_sw/generic/EU/DIGI/Commercial/Hungary/mcfg_sw.mbn
 mcfg_sw/generic/EU/DIGI/Commercial/Romania/mcfg_sw.mbn
@@ -88,6 +91,8 @@ mcfg_sw/generic/EU/MTS/Commercial/RS/mcfg_sw.mbn
 mcfg_sw/generic/EU/Mobitel/Commercial/SI/mcfg_sw.mbn
 mcfg_sw/generic/EU/MonacoT/Commercial/MC/mcfg_sw.mbn
 mcfg_sw/generic/EU/NOS/Commercial/PT/mcfg_sw.mbn
+mcfg_sw/generic/EU/NOVA/Commercial/Iceland/mcfg_sw.mbn
+mcfg_sw/generic/EU/ONEONE/Commercial/Germany/mcfg_sw.mbn
 mcfg_sw/generic/EU/Orange/Commercial/BE/mcfg_sw.mbn
 mcfg_sw/generic/EU/Orange/Commercial/CA/mcfg_sw.mbn
 mcfg_sw/generic/EU/Orange/Commercial/France/mcfg_sw.mbn
@@ -110,10 +115,12 @@ mcfg_sw/generic/EU/Proximus/Commercial/BE/mcfg_sw.mbn
 mcfg_sw/generic/EU/Proximus/Commercial/LU/mcfg_sw.mbn
 mcfg_sw/generic/EU/SFR/Commercial/FR/mcfg_sw.mbn
 mcfg_sw/generic/EU/SWAN/Commercial/SK/mcfg_sw.mbn
+mcfg_sw/generic/EU/Salt/Commercial/CH/mcfg_sw.mbn
 mcfg_sw/generic/EU/Sunrise/VoLTE/Sunrise/mcfg_sw.mbn
 mcfg_sw/generic/EU/Swisscom/Commercial/Swiss/mcfg_sw.mbn
 mcfg_sw/generic/EU/TDC/Commercial/Denmark/mcfg_sw.mbn
 mcfg_sw/generic/EU/TIM/Commercial/Italy/mcfg_sw.mbn
+mcfg_sw/generic/EU/TIM/Commercial/kena_Italy/mcfg_sw.mbn
 mcfg_sw/generic/EU/Tele2/Commercial/Croatia/mcfg_sw.mbn
 mcfg_sw/generic/EU/Tele2/Commercial/Estonia/mcfg_sw.mbn
 mcfg_sw/generic/EU/Tele2/Commercial/LT/mcfg_sw.mbn
@@ -146,6 +153,7 @@ mcfg_sw/generic/EU/Vivacom/Commercial/BG/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/Commercial/AL/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/Commercial/Hungary/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/Commercial/Ireland/mcfg_sw.mbn
+mcfg_sw/generic/EU/Vodafone/Dataonly/MPN/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/Lab/CTC/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/M2M/Commercial/Global/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/Non_VoLTE/mcfg_sw.mbn
@@ -157,12 +165,14 @@ mcfg_sw/generic/EU/Vodafone/VoLTE/Netherlands/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/VoLTE/Portugal/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/VoLTE/Romania/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/VoLTE/SAfrica/mcfg_sw.mbn
+mcfg_sw/generic/EU/Vodafone/VoLTE/Spain/VEE/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/VoLTE/Spain/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/VoLTE/Turkey/mcfg_sw.mbn
 mcfg_sw/generic/EU/Vodafone/VoLTE/UK/mcfg_sw.mbn
 mcfg_sw/generic/EU/Welcome/Commercial/Italy/mcfg_sw.mbn
 mcfg_sw/generic/EU/Wind/Commercial/Greece/mcfg_sw.mbn
 mcfg_sw/generic/EU/Yoigo/Commercial/ES/mcfg_sw.mbn
+mcfg_sw/generic/EU/Zeop/Commercial/France/mcfg_sw.mbn
 mcfg_sw/generic/Korea/KT/Commercial_KT_LTE/mcfg_sw.mbn
 mcfg_sw/generic/Korea/LGU/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Korea/SKT/Commercial/mcfg_sw.mbn
@@ -201,7 +211,10 @@ mcfg_sw/generic/LATAM/Tigo/Commercial/GT/mcfg_sw.mbn
 mcfg_sw/generic/LATAM/Vivo/Commercial/BR/mcfg_sw.mbn
 mcfg_sw/generic/LATAM/WOM/Commercial/CL/mcfg_sw.mbn
 mcfg_sw/generic/LATAM/WOM/Commercial/Colombia/mcfg_sw.mbn
+mcfg_sw/generic/MEA/Asiacell/Commercial/IQ/mcfg_sw.mbn
+mcfg_sw/generic/MEA/Bakcell/Commercial/Azerbaijan/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Batelco/Commercial/Bahrain/mcfg_sw.mbn
+mcfg_sw/generic/MEA/Beeline/Commercial/Uzbekistan/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Cellcom/Commercial/IS/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Du/Commercial/AE/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Etisalat/Commercial/AE/mcfg_sw.mbn
@@ -214,10 +227,12 @@ mcfg_sw/generic/MEA/Ooredoo/Commercial/OM/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Ooredoo/Commercial/QA/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Partner/Commercial/IL/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Pelephone/Commercial/IL/mcfg_sw.mbn
+mcfg_sw/generic/MEA/Redbull/Commercial/SA/mcfg_sw.mbn
 mcfg_sw/generic/MEA/STC/Commercial/KUW/mcfg_sw.mbn
 mcfg_sw/generic/MEA/STC/Commercial/SA/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Salam/Commercial/SA/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Telenor/Commercial/Pakistan/mcfg_sw.mbn
+mcfg_sw/generic/MEA/Ufone/Commercial/Pakistan/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Uminah/Commercial/Jordan/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Zain/Commercial/BA/mcfg_sw.mbn
 mcfg_sw/generic/MEA/Zain/Commercial/Jordan/mcfg_sw.mbn
@@ -269,8 +284,10 @@ mcfg_sw/generic/SEA/M1/Commercial/SG/mcfg_sw.mbn
 mcfg_sw/generic/SEA/MPT/Commercial/MM/mcfg_sw.mbn
 mcfg_sw/generic/SEA/Maxis/Commercial/Maxis/mcfg_sw.mbn
 mcfg_sw/generic/SEA/Metfone/Commercial/KH/mcfg_sw.mbn
+mcfg_sw/generic/SEA/Mobifone/Commercial/Vietnam/mcfg_sw.mbn
 mcfg_sw/generic/SEA/MyTel/Commercial/MM/mcfg_sw.mbn
 mcfg_sw/generic/SEA/NT/Commercial/Thailand/mcfg_sw.mbn
+mcfg_sw/generic/SEA/Ncell/Commercial/NP/mcfg_sw.mbn
 mcfg_sw/generic/SEA/P1/Commercial/Malaysia/mcfg_sw.mbn
 mcfg_sw/generic/SEA/Seatel/Commercial/Cambodia/mcfg_sw.mbn
 mcfg_sw/generic/SEA/Singtel/Commercial/Singapore/mcfg_sw.mbn
@@ -282,7 +299,9 @@ mcfg_sw/generic/SEA/Smartfren/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/SEA/StarHub/Commercial/SG/mcfg_sw.mbn
 mcfg_sw/generic/SEA/TM/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/SEA/TPG/Commercial/SG/mcfg_sw.mbn
+mcfg_sw/generic/SEA/TRI/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/SEA/TStar/Commercial/TW/mcfg_sw.mbn
+mcfg_sw/generic/SEA/Tele2/Commercial/KZ/mcfg_sw.mbn
 mcfg_sw/generic/SEA/Telkomsel/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/SEA/Truemove/Commercial/VoLTE/mcfg_sw.mbn
 mcfg_sw/generic/SEA/UMobile/Commercial/Malaysia/mcfg_sw.mbn
